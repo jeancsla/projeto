@@ -37,5 +37,3 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat [Participe da comunidade!](https://discord.gg/rocketseat)
